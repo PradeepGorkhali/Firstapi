@@ -2,7 +2,7 @@ const data = [
     {
       "postId": 1,
       "id": 1,
-      "name": "id labore ex et quam Pradeep",
+      "name": "My Name is pradeep",
       "email": "Eliseo@gardner.biz",
       "body": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium"
     },
